@@ -1,7 +1,7 @@
 {
   "name": "front-assr1",
   "version": "0.0.0",
-  "deploy": "ng build --prod --base-href=/angular-ci-cd/",
+  "deploy": "ng build --prod --base-href=/lectorMedidores/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
